@@ -1,4 +1,4 @@
-#language :pt
+# language: pt
 
 @typeOfEstablishment
 Funcionalidade: Validar typeOfEstablishment na resposta da API
