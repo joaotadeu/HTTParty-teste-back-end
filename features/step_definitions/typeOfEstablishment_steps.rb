@@ -8,5 +8,5 @@ end
 
 Então('eu recebo um tipo aleatório de estabelecimento da resposta') do
   @random_type = get_random_type(@response)
-  puts "Tipo Aleatório de Estabelecimento: #{@random_type}"
+  print "Tipo Aleatório de Estabelecimento: #{@random_type}"
 end
