@@ -1,13 +1,3 @@
-Teste Prático
-Obrigado por participar do nosso processo seletivo da VR Benefícios.
-Nossa stack tecnológica aqui é Cypress para teste de frontend e Cucumber + Ruby + HTTParty para teste de backend.
-Regras:
-• O exercício deve ser entregue em um repositório público do GitHub
-• Lembre-se de incluir comentários nos seus arquivos. Eles são importantes para entendermos seu modo de
-pensar.
-• O exercício deve ser entregue em até́ uma semana a partir do recebimento
-
-
 Backend
 1) Temos um endpoint de consulta exposto no nosso portal que nos retorna uma série de informações sobre nossos
 produtos e estabelecimentos.
